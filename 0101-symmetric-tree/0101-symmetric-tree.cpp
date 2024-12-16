@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// Solved Recursively...
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
