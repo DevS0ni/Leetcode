@@ -10,9 +10,9 @@ The solutions are designed with efficiency in mind and follow best practices to 
 
 The main goal of this repository is to:
 ```
-  ~ Track and share my progress in solving algorithm and data structure problems on Leetcode.
-  ~ Provide well-documented, optimized solutions for various coding challenges.
-  ~ Help others learn from my problem-solving approaches in C++.
+  Track and share my progress in solving algorithm and data structure problems on Leetcode.
+  Provide well-documented, optimized solutions for various coding challenges.
+  Help others learn from my problem-solving approaches in C++.
 ```
 
 **Prerequisites**
