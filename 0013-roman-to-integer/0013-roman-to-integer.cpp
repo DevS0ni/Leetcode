@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /* BRUTE_FORCE SOLUTION
+    // BRUTE_FORCE SOLUTION
     int ans_num = 0;
         bool flag = true;
 
@@ -69,7 +69,7 @@ public:
             }
             }
         return ans_num;
-    */
+    /*
     int romanToInt(string s) {
         unordered_map<char, int> romanMap = {
             {'I', 1}, {'V', 5}, {'X', 10}, {'L', 50},
@@ -86,6 +86,7 @@ public:
             }
         }
         
-        return result;   
+        return result;
+        */
     }
 };
