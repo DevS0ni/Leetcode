@@ -33,12 +33,18 @@ To use this repository, you need to have the following tools installed:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevS0ni/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/DevS0ni/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevS0ni/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/DevS0ni/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevS0ni/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/DevS0ni/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
