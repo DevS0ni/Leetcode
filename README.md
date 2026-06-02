@@ -22,3 +22,11 @@ To use this repository, you need to have the following tools installed:
   ~ Leetcode (if you want to view the problems and test solutions)
   -> You can also install CMake for easier project management and building if necessary, 
      although it is not strictly required for individual problem files.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1470-shuffle-the-array](https://github.com/DevS0ni/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+<!---LeetCode Topics End-->
