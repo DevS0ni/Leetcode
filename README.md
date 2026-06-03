@@ -28,6 +28,7 @@ To use this repository, you need to have the following tools installed:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/DevS0ni/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/DevS0ni/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
