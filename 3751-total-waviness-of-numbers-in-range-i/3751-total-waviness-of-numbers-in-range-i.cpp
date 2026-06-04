@@ -18,9 +18,6 @@ public:
                         else if(number[i] < number[i-1] && number[i] < number[i+1]){
                             peak++;
                         }
-                        else{
-                            
-                        }
                     }
                 }
             }
