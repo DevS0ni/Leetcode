@@ -48,4 +48,13 @@ To use this repository, you need to have the following tools installed:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/DevS0ni/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevS0ni/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevS0ni/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevS0ni/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
