@@ -19,7 +19,7 @@ public:
                             peak++;
                         }
                         else{
-                            cout << "Waviness is 0";
+                            
                         }
                     }
                 }
