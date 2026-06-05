@@ -5,37 +5,15 @@ public:
 
         for(char c : s) {
 
-            if(c == '(' || c == '{' || c == '[') {
+            if(c == '(') st.push(')');
 
-                st.push(c);
+            else if(c == '{') st.push('}');
 
-            }
+            else if(c == '[') st.push(']');
 
             else {
 
-                if(st.empty()) {
-
-                    return false;
-
-                }
-
-                if(c == ')' && st.top() != '(') {
-
-                    return false;
-
-                }
-
-                if(c == '}' && st.top() != '{') {
-
-                    return false;
-
-                }
-
-                if(c == ']' && st.top() != '[') {
-
-                    return false;
-
-                }
+                if(st.empty() || st.top() != c) return false;
 
                 st.pop();
 
