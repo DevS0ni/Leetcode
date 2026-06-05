@@ -40,6 +40,7 @@ To use this repository, you need to have the following tools installed:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevS0ni/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/DevS0ni/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/DevS0ni/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ To use this repository, you need to have the following tools installed:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevS0ni/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DevS0ni/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
